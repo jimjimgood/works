@@ -9,7 +9,7 @@ baseurl: "/myworks" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: 设计作品集 # add your name
 author-pic: adam-face.jpg
 about-author: 我是一名设计师，从事设计4年，
 
