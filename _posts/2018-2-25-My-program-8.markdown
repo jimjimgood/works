@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 时段Dm物料设计展示
+title: “感恩大回馈”时段促销项目
 date: 2018-02-25 15:01:08 +0300
 description: . # Add post description (optional)
 img: http://album.sina.com.cn/pic/002ysGSezy7iwRv8bWi5a  # Add image post (optional)
