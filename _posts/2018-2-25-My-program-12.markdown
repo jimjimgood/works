@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 语音笔记功能介绍
+title: 网页推文-语音笔记功能介绍
 date: 2018-02-25 12:01:08 +0300
 description: . # Add post description (optional)
 img: http://s12.sinaimg.cn/orignal/002ysGSezy7ixXoLDd1ab  # Add image post (optional)
