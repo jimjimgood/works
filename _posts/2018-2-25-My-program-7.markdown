@@ -3,7 +3,7 @@ layout: post
 title: 时段Dm物料设计展示
 date: 2018-02-25 17:02:08 +0300
 description: . # Add post description (optional)
-img: http://album.sina.com.cn/pic/002ysGSezy7iwRvjIsv4f  # Add image post (optional)
+img: http://album.sina.com.cn/pic/002ysGSezy7iwRvhsAO22  # Add image post (optional)
 tags: [海王星辰,活动项目]
 author: # Add name author (optional)
 ---
