@@ -1,0 +1,14 @@
+---
+layout: post
+title: 封面设计展示
+date: 2018-02-25 14:40:08 +0300
+description: . # Add post description (optional)
+img: http://s3.sinaimg.cn/orignal/002ysGSezy7ixXy1Scac2  # Add image post (optional)
+tags: [鸭题库公司,封面设计]
+author: # Add name author (optional)
+---
+
+
+![pic](http://imglf3.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VnajYwVnpYMldvOFZqVkNJdjdOcGhIc0RIMlo4MUVZTWpnPT0.jpg)
+![pic](http://imglf6.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VncGVBYThNbHlIOVJTQktIeFhkaFdBcWpSWkdDZjU3NUN3PT0.jpg)
+![pic](http://imglf5.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VncHhCcnlpQzlxbmNwaGJtdWg1Um5SOWpHMERYM285T0p3PT0.jpg)
