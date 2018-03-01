@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 技能考试手机app功能介绍
+title: 网页推文-技能考试手机app功能介绍
 date: 2018-02-25 12:28:08 +0300
 description: . # Add post description (optional)
 img: http://s3.sinaimg.cn/orignal/002ysGSezy7ixXoFQSm12  # Add image post (optional)
