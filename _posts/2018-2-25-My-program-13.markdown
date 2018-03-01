@@ -9,6 +9,5 @@ author: # Add name author (optional)
 ---
 
 
-` tips ：以下实际案例均是本人创作，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
 
 ![pic](http://imglf3.nosdn.127.net/img/RHMxd2FkeXp5UDBXQ0RmRnNlOVNyaGFGQUx2anZhc25MZHI2UzRTSmhJaXQ4SmplZUQzUHhRPT0.jpg)
