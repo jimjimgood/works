@@ -1,0 +1,11 @@
+---
+layout: post
+title: 语音笔记功能介绍
+date: 2018-02-25 12:01:08 +0300
+description: . # Add post description (optional)
+img: http://s12.sinaimg.cn/orignal/002ysGSezy7ixXoLDd1ab  # Add image post (optional)
+tags: [鸭题库公司,网页推文]
+author: # Add name author (optional)
+---
+
+![pic](http://imglf6.nosdn.127.net/img/RHMxd2FkeXp5UDBXQ0RmRnNlOVNycCtlSlFrbWxYTzJ2TFNvdk9xbEg4MFpCZjFEKzEyVWJnPT0.jpg)
