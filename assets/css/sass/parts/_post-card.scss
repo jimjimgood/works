@@ -17,23 +17,7 @@
 .post-card {
   position: relative;
 
-  .post-card-image {
-    display: block;
-    width: 100%;
-    min-height: 150px;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    &::after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: #000000;
-    }
+
   }
 
   .post-card-body {
