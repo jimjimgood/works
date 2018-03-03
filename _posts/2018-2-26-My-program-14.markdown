@@ -1,0 +1,15 @@
+---
+layout: post
+title: 产品Dm单设计
+date: 2018-02-26 00:00:08 +0300
+description: # Add post description (optional)
+img: http://album.sina.com.cn/pic/002ysGSezy7iBB32Kfs36  # Add image post (optional)
+tags: [佳玛游乐,物料设计] 
+author: # Add name author (optional)
+---
+
+
+![pic](http://album.sina.com.cn/pic/002ysGSezy7iBB7MXSia2)
+![pic](http://album.sina.com.cn/pic/002ysGSezy7iBBdK8tN57)
+![pic](http://album.sina.com.cn/pic/002ysGSezy7iBBlAv7f0d)
+
