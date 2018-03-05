@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 海报设计 - 化妆品类目
+title: 渲染 - 摩托建模
 date: 2018-02-28 00:00:08 +0300
 description: # Add post description (optional)
 img: http://s8.sinaimg.cn/orignal/002ysGSezy7iEFFNNZ577  # Add image post (optional)
