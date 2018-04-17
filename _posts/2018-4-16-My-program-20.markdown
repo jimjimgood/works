@@ -1,0 +1,12 @@
+---
+layout: post
+title: 推送图文设计
+date: 2018-04-16 20:30:08 +0300
+description: # Add post description (optional)
+img: http://s10.sinaimg.cn/orignal/002ysGSezy7jL3fNd1Le9  # Add image post (optional)
+tags: [平面设计,物料设计,网页推文] 
+author: # Add name author (optional)
+---
+
+
+![pic](http://s10.sinaimg.cn/orignal/002ysGSezy7jL3fNd1Le9)
